@@ -6,6 +6,8 @@ description: Learn what source code control is, why Git and GitHub matter, and w
 
 # About Save Your Code
 
+![Illustration of the author writing this website](/assets/images/author.png)
+
 ## About Source Code Control
 
 Source code control (also called version control) is a way to save, track,
