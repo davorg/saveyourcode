@@ -2,6 +2,7 @@
 title: About
 layout: default
 description: Learn what source code control is, why Git and GitHub matter, and who's behind Save Your Code.
+image: /assets/images/author.png
 ---
 
 # About Save Your Code

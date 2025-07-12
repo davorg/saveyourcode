@@ -8,7 +8,7 @@ author:
   name: Dave Cross
   url: https://davecross.co.uk/
 
-og_image: /assets/images/saveyourcode.png
+logo: /assets/images/saveyourcode.png
 
 plugins:
   - jekyll-feed
