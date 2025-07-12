@@ -6,6 +6,8 @@ description: Learn how to save your code (and your sanity) with Git and GitHub.
 
 # Welcome to Save Your Code
 
+![Illustration of saving your code](/assets/images/saveyourcode.png)
+
 This site teaches you how to save your code (and your sanity) with Git and GitHub.
 
 ## Recent Posts
