@@ -1,6 +1,7 @@
 ---
 title: All Posts
 layout: default
+description: All posts on SaveYourCode
 ---
 
 # All Posts

@@ -1,6 +1,7 @@
 ---
 title: Welcome
 layout: default
+description: Learn how to save your code (and your sanity) with Git and GitHub.
 ---
 
 # Welcome to Save Your Code

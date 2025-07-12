@@ -1,6 +1,7 @@
 ---
 title: About
 layout: default
+about: About SaveYourCode. What? Why? And Who?
 ---
 
 # About Save Your Code
