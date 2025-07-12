@@ -1,3 +1,4 @@
+theme: null
 title: Save Your Code
 description: A site about saving your code with Git and GitHub
 baseurl: "" # leave empty for root
