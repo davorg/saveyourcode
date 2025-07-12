@@ -97,3 +97,10 @@ nav a:hover {
   color: #007acc;
 }
 
+main img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+}
+
