@@ -18,3 +18,10 @@ ga4: G-SF6ZXD1B95
 
 twitter:
   username: NooneUsesTwitter
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/saveyourcode.png
+
