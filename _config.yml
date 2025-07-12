@@ -4,7 +4,9 @@ description: A site about saving your code with Git and GitHub
 baseurl: "" # leave empty for root
 url: "https://saveyourcode.dev"
 markdown: kramdown
-author: Dave Cross
+author:
+  name: Dave Cross
+  url: https://davecross.co.uk/
 
 og_image: /assets/images/saveyourcode.png
 
@@ -14,3 +16,5 @@ plugins:
 
 ga4: G-SF6ZXD1B95
 
+twitter:
+  username: NooneUsesTwitter
