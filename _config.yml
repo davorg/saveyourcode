@@ -10,7 +10,7 @@ og_image: /assets/images/saveyourcode.png
 
 plugins:
   - jekyll-feed
-  - jekyll-seo
+  - jekyll-seo-tag
 
 ga4: G-SF6ZXD1B95
 
