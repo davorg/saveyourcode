@@ -13,7 +13,7 @@ This site teaches you how to save your code (and your sanity) with Git and GitHu
 ## Recent Posts
 
 <ul class="post-list">
-  {% for post in site.posts %}
+  {% for post in site.posts limit:5 %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a><br>
       <small>{{ post.date | date: "%d %B %Y" }}</small>
