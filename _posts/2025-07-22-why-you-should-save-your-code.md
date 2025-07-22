@@ -15,11 +15,8 @@ Most of us aren’t building production apps when we code.
 We’re:
 
 * Testing ideas
-
 * Copy-pasting AI suggestions
-
 * Tweaking tutorials
-
 * Learning something new
 
 And that’s amazing.
@@ -56,9 +53,7 @@ That’s where source control comes in.
 Tools like Git and GitHub give you:
 
 * Save points (commits)
-
 * Backups (push to cloud)
-
 * A timeline you can rewind
 
 They turn your experiments into something stable and recoverable.
@@ -71,9 +66,7 @@ They turn your experiments into something stable and recoverable.
 If you’re:
 
 * Writing AI-assisted code
-
 * Running small side projects
-
 * Learning in public
 
 …you need save points too.
@@ -84,9 +77,7 @@ That’s what this site is here for.
 We’ll help you:
 
 * Make your first save points
-
 * Back up your projects
-
 * Build confidence and momentum
 
 No jargon.    
